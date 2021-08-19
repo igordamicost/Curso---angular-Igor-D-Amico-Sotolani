@@ -7,12 +7,12 @@ The project consists of a film system. It allows you to add and delete movies fr
 ## Resources used
 
 1. Angular 8
-    # Angular Material
-    # HTML
-    # CSS
+    ### Angular Material
+    ### HTML
+    ### CSS
 2. Type Script
 
 3. Json 
-    # Used for create one global server
-    # Used to create HTTP requests
+    ### Used for create one global server
+    ### Used to create HTTP requests
 
