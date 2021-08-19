@@ -119,19 +119,6 @@
       "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
       "genero": "Aventura",
       "id": 12
-    },
-    {
-      "id": 13
-    },
-    {
-      "titulo": "igor",
-      "urlFoto": null,
-      "dtLancamento": "2021-08-04T03:00:00.000Z",
-      "descricao": null,
-      "nota": 8,
-      "urlIMDb": null,
-      "genero": "Terror",
-      "id": 14
     }
   ]
 }
